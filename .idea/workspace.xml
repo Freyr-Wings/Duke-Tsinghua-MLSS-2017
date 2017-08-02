@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="924fdcc3-09e2-4734-8c09-43f6d3a13bda" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gan-test.ipynb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01C_MLP_CNN_Assignment.ipynb" afterPath="$PROJECT_DIR$/01C_MLP_CNN_Assignment.ipynb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/03A_Variational_Autoencoder.ipynb" afterPath="$PROJECT_DIR$/03A_Variational_Autoencoder.ipynb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/03B_Generative_Adversarial_Network.ipynb" afterPath="$PROJECT_DIR$/03B_Generative_Adversarial_Network.ipynb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/04A_MLP_Optimizer_Sandbox_Assignment.ipynb" afterPath="$PROJECT_DIR$/04A_MLP_Optimizer_Sandbox_Assignment.ipynb" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -27,11 +24,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="gan-test.ipynb" pinned="false" current-in-tab="true">
+      <file leaf-file-name="gan-test.ipynb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/gan-test.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
               <selected id="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="04A_MLP_Optimizer_Sandbox_Assignment.ipynb" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/04A_MLP_Optimizer_Sandbox_Assignment.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="0" />
             </state>
           </provider>
         </entry>
@@ -67,6 +73,7 @@
       <list>
         <option value="$PROJECT_DIR$/03A_Variational_Autoencoder.ipynb" />
         <option value="$PROJECT_DIR$/gan-test.ipynb" />
+        <option value="$PROJECT_DIR$/04A_MLP_Optimizer_Sandbox_Assignment.ipynb" />
       </list>
     </option>
   </component>
@@ -91,6 +98,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -105,8 +114,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -207,7 +214,7 @@
   <component name="ToolWindowManager">
     <frame x="64" y="-11" width="1217" height="812" extended-state="6" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2634271" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27195227" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32892805" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -235,6 +242,55 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/01C_MLP_CNN_Assignment.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="-1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gan-test.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="-1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03B_Generative_Adversarial_Network.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="-1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04A_MLP_Optimizer_Sandbox_Assignment.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="-1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01C_MLP_CNN_Assignment.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="-1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03B_Generative_Adversarial_Network.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="-1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gan-test.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="-1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/01C_MLP_CNN_Assignment.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
@@ -288,6 +344,13 @@
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
           <selected id="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04A_MLP_Optimizer_Sandbox_Assignment.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
         </state>
       </provider>
     </entry>
